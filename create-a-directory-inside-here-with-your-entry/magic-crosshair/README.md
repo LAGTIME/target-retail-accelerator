@@ -42,19 +42,7 @@ This mobile app and UI showcases products, and similar items, in a novel, compac
 Built-in "list" functionality will allow customers to replay, save, and share Crosshair results as list with other family members, friends, bridal registry invitees, baby shower members, etc.
 
 
-###Team Leader
+###Team 
 
 Lawrence ("Larry") Green  
-larry.green@landor.com  
-1 (415) 365-4411
 
-###Team Members
-
-Chris Pike  
-chris.pike@landor.com
-
-Robin Lapid  
-robin.lapid@landor.com
-
-Amy Angerami  
-amy.angerami@landor.com
